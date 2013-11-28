@@ -1,0 +1,10 @@
+//
+// Prefix header for all source files of the 'HealthNaming' target in the 'HealthNaming' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+
+#define XXDEBUG_LOG
+#import "XXLog.h"

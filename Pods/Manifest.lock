@@ -1,0 +1,17 @@
+PODS:
+  - FMDB (2.1):
+    - FMDB/standard
+  - FMDB/common (2.1)
+  - FMDB/standard (2.1):
+    - FMDB/common
+  - SBJson (3.2)
+
+DEPENDENCIES:
+  - FMDB (~> 2.1)
+  - SBJson (~> 3.2)
+
+SPEC CHECKSUMS:
+  FMDB: 3fd5aaf632ca4ed39e3f101e0398504e6d5b0918
+  SBJson: abc2bf2baef456d5dae213f9826fe2b6fdf19861
+
+COCOAPODS: 0.27.1
